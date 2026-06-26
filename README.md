@@ -10,13 +10,9 @@ Ce projet consiste à concevoir un tableau de bord interactif de Ressources Huma
 
 ## Aperçu du Dashboard
 
-> Ajouter ici une capture d'écran du tableau de bord.
+<img width="1142" height="580" alt="image" src="https://github.com/user-attachments/assets/e3011905-84d4-47d5-ad26-a929a77c0dd8" />
 
-```text
-/dashboard/dashboard.png
-```
 
----
 
 ## Objectifs
 
